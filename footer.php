@@ -2,7 +2,7 @@
          <div class="outer-box">
             <div class="footer-left">
                <div class="logo">
-                  <a href="index"><img src="images/logo-light.png" alt="Logo"></a>
+                  <a href="index"><img src="images/logo.png" alt="Logo"></a>
                </div>
                <button class="back-top-btn mobile-nav-toggler">
                   <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
