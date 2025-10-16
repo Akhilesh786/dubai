@@ -126,3 +126,8 @@
             </div>
          </div>
       </footer>
+      <style>
+         .footer-style-one .footer-top .info-item ul li .title {
+            font-size: 12px !important;
+         }
+      </style>
