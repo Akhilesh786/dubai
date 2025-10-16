@@ -130,10 +130,10 @@
                      <i class="fa-solid fa-phone ring__animation"></i>
                      <div>
                         <h6 class="title">Phone:</h6>
-                        <a href="#">+00 2222 222 00</a>
+                        <a href="#"> +971 568586608</a>
                      </div>
                   </div>
-                  <a class="btn-two" href="page-contact">Contact Now</a>
+                  <a class="btn-two" href="contact.php">Contact Now</a>
                </div>
                <div class="mobile-nav-toggler d-block d-lg-none"><i class="icon lnr-icon-bars"></i></div>
                <!-- Mobile Nav toggler -->
