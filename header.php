@@ -37,39 +37,8 @@
             <div class="nav-outer">
                <nav class="nav main-menu">
                   <ul class="navigation">
-                     <li class="dropdown">
-                        <a href="#">Home</a>
-                        <ul>
-                           <li><a href="index">Home page 01</a></li>
-                           <li><a href="index-2">Home page 02</a></li>
-                           <li><a href="index-3">Home page 03</a></li>
-                           <li><a href="index-4">Home page 04</a></li>
-                           <li><a href="index-5">Home page 05</a></li>
-                           <li><a href="index-6">Home page 06</a></li>
-                           <li class="dropdown">
-                              <a href="#">Single Styles</a>
-                              <ul>
-                                 <li><a href="index-1-single">Single Styles One</a></li>
-                                 <li><a href="index-2-single">Single Styles Two</a></li>
-                                 <li><a href="index-3-single">Single Styles Three</a></li>
-                                 <li><a href="index-4-single">Single Styles Four</a></li>
-                                 <li><a href="index-5-single">Single Styles Five</a></li>
-                                 <li><a href="index-6-single">Single Styles Six</a></li>
-                              </ul>
-                           </li>
-                           <li class="dropdown">
-                              <a href="#">Dark Styles</a>
-                              <ul>
-                                 <li><a href="index-1-dark">Dark Styles One</a></li>
-                                 <li><a href="index-2-dark">Dark Styles Two</a></li>
-                                 <li><a href="index-3-dark">Dark Styles Three</a></li>
-                                 <li><a href="index-4-dark">Dark Styles Four</a></li>
-                                 <li><a href="index-5-dark">Dark Styles Five</a></li>
-                                 <li><a href="index-6-dark">Dark Styles Six</a></li>
-                              </ul>
-                           </li>
-                           <li><a href="index-1-rtl">RTL Style</a></li>
-                        </ul>
+                     <li>
+                        <a href="https://awesomepanama.com/">Home</a>
                      </li>
                      <li class="dropdown">
                         <a href="#">Pages</a>
