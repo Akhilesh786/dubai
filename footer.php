@@ -105,7 +105,7 @@
                      </div>
                   </div>
                   <div class="footer-bottom">
-                     <p class="copyright-text">© Copyright 2025. All Right by <a href="#0">Kodesolution</a></p>
+                     <p class="copyright-text">© Copyright 2025. All Right by <a href="#0">Awesomepanama</a></p>
                   </div>
                </div>
                <div class="col-xl-4 right-column order-1 order-xl-2">
@@ -113,7 +113,7 @@
                      <h3 class="title">Have a Project in
                         your Mind?
                      </h3>
-                     <a class="circle-btn" href="page-contact">Contact Us <i class="fa-regular fa-arrow-up-right"></i></a>
+                     <a class="circle-btn" href="contact.php">Contact Us <i class="fa-regular fa-arrow-up-right"></i></a>
                      <div class="mt-10">
                         <h5 class="time">09 : 00 AM - 10 : 30 PM</h5>
                         <h5 class="date">Saturday - Thursday</h5>
