@@ -12,8 +12,8 @@
                </div>
                <div class="top-right">
                   <ul class="useful-links">
-                     <li><a href="page-about">About</a></li>
-                     <li><a href="page-faq">Faqs</a></li>
+                     <li><a href="#">About</a></li>
+                     <li><a href="#">Faqs</a></li>
                      <li><a href="contact.php">Contact</a></li>
                   </ul>
                   <ul class="top-social-icon">
@@ -43,52 +43,52 @@
                      <li class="dropdown">
                         <a href="#">Pages</a>
                         <ul>
-                           <li><a href="page-about">About</a></li>
-                           <li><a href="page-faq">Faq</a></li>
-                           <li><a href="page-pricing">Pricing</a></li>
+                           <li><a href="#">About</a></li>
+                           <li><a href="#">Faq</a></li>
+                           <li><a href="#">Pricing</a></li>
                            <li class="dropdown">
                               <a href="#">Team</a>
                               <ul>
-                                 <li><a href="page-team">Team List</a></li>
-                                 <li><a href="page-team-details">Team Details</a></li>
+                                 <li><a href="#">Team List</a></li>
+                                 <li><a href="#">Team Details</a></li>
                               </ul>
                            </li>
                            <li class="dropdown">
                               <a href="#">Shop</a>
                               <ul>
-                                 <li><a href="shop-products">Products</a></li>
-                                 <li><a href="shop-products-sidebar">Products with Sidebar</a></li>
-                                 <li><a href="shop-product-details">Product Details</a></li>
-                                 <li><a href="shop-cart">Cart</a></li>
-                                 <li><a href="shop-checkout">Checkout</a></li>
+                                 <li><a href="#">Products</a></li>
+                                 <li><a href="#">Products with Sidebar</a></li>
+                                 <li><a href="#">Product Details</a></li>
+                                 <li><a href="#">Cart</a></li>
+                                 <li><a href="#">Checkout</a></li>
                               </ul>
                            </li>
-                           <li><a href="page-testimonial">Testimonials</a></li>
-                           <li><a href="page-404">404</a></li>
+                           <li><a href="#">Testimonials</a></li>
+                           <li><a href="#">404</a></li>
                         </ul>
                      </li>
                      <li class="dropdown">
                         <a href="#">Services</a>
                         <ul>
-                           <li><a href="page-services">Services</a></li>
-                           <li><a href="page-service-details">Services Details</a></li>
+                           <li><a href="#">Services</a></li>
+                           <li><a href="#">Services Details</a></li>
                         </ul>
                      </li>
                      <li class="dropdown">
                         <a href="#">Portfolio</a>
                         <ul>
-                           <li><a href="page-case">Portfolio</a></li>
-                           <li><a href="page-case-details">Portfolio Details</a></li>
+                           <li><a href="#">Portfolio</a></li>
+                           <li><a href="#">Portfolio Details</a></li>
                         </ul>
                      </li>
                      <li class="dropdown">
                         <a href="#">News</a>
                         <ul>
-                           <li><a href="news-grid">News Grid</a></li>
-                           <li><a href="news-details">News Details</a></li>
+                           <li><a href="#">News Grid</a></li>
+                           <li><a href="#">News Details</a></li>
                         </ul>
                      </li>
-                     <li><a href="page-contact">Contact</a></li>
+                     <li><a href="#">Contact</a></li>
                   </ul>
                </nav>
                <!-- Main Menu End-->

@@ -6,7 +6,7 @@
    <!-- /Added by HTTrack -->
    <head>
       <meta charset="utf-8">
-      <title>Awesomepanama | Home Page 01</title>
+      <title>Awesomepanama | Home</title>
       <!-- Stylesheets -->
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <link href="css/style.css" rel="stylesheet">
@@ -46,63 +46,17 @@
                         <div class="row g-0 align-items-end">
                            <div class="col-lg-8 content-column">
                               <div class="inner-column">
-                                 <h6 class="sub-title" data-animation="fadeInUp" data-delay=".3s">Growth, Innovation, and Success
+                                 <h6 class="sub-title" data-animation="fadeInUp" data-delay=".3s"> BRANDING, MARKETING, ADVERTISING & EVENTS
                                  </h6>
                                  <h1 class="title" data-animation="fadeInUp" data-delay=".5s">transforming
-                                    <span>business growth</span>
-                                    Drive Success
+                                    <span>Transforming Brands </span>
+                                    Driving Success
                                  </h1>
-                                 <a class="btn-one" data-animation="fadeInUp" data-delay=".8s" href="page-contact.html">free consultation</a>
+                                 <a class="btn-one" data-animation="fadeInUp" data-delay=".8s" href="page-contact.html">Get in touch</a>
                               </div>
                            </div>
                            <div class="col-lg-4">
-                              <p class="text" data-animation="fadeInUp" data-delay=".9s">Take your brand to new heights Agency offering everything from strategy business.</p>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="swiper-slide">
-                  <div class="slide-bg" data-background="images/banner/banner-image2.jpg"></div>
-                  <div class="container">
-                     <div class="outer-box">
-                        <div class="row g-0 align-items-end">
-                           <div class="col-lg-8 content-column">
-                              <div class="inner-column">
-                                 <h6 class="sub-title" data-animation="fadeInUp" data-delay=".3s">Growth, Innovation, and Success
-                                 </h6>
-                                 <h1 class="title" data-animation="fadeInUp" data-delay=".5s">transforming
-                                    <span>business growth</span>
-                                    Drive Success
-                                 </h1>
-                                 <a class="btn-one" data-animation="fadeInUp" data-delay=".8s" href="page-contact.html">free consultation</a>
-                              </div>
-                           </div>
-                           <div class="col-lg-4">
-                              <p class="text" data-animation="fadeInUp" data-delay=".9s">Take your brand to new heights Agency offering everything from strategy business.</p>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="swiper-slide">
-                  <div class="slide-bg" data-background="images/banner/banner-image3.jpg"></div>
-                  <div class="container">
-                     <div class="outer-box">
-                        <div class="row g-0 align-items-end">
-                           <div class="col-lg-8 content-column">
-                              <div class="inner-column">
-                                 <h6 class="sub-title" data-animation="fadeInUp" data-delay=".3s">Growth, Innovation, and Success
-                                 </h6>
-                                 <h1 class="title" data-animation="fadeInUp" data-delay=".5s">transforming
-                                    <span>business growth</span>
-                                    Drive Success
-                                 </h1>
-                                 <a class="btn-one" data-animation="fadeInUp" data-delay=".8s" href="page-contact.html">free consultation</a>
-                              </div>
-                           </div>
-                           <div class="col-lg-4">
-                              <p class="text" data-animation="fadeInUp" data-delay=".9s">Take your brand to new heights Agency offering everything from strategy business.</p>
+                              <p class="text" data-animation="fadeInUp" data-delay=".9s">Awesome Panama blends creativity, strategy, and culture to shape tomorrow’s brands.</p>
                            </div>
                         </div>
                      </div>
@@ -132,8 +86,8 @@
                      <div class="content-box">
                         <div class="sec-title">
                            <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">ABOUT US</h6>
-                           <h2 class="title wow splt-txt" data-splitting>The Journey Behind Our Business Success</h2>
-                           <p class="text wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Consultez is the go-to hub for early adopters and innovation enthusiasts, offering cutting-edge technology</p>
+                           <h2 class="title wow splt-txt" data-splitting>The Vision Behind Our Creative Synergy</h2>
+                           <p class="text wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Awesome Panama is a strategic partnership between Awesome Sauce Creative (India) and Panama Advertising (UAE) — born from a shared belief that creativity should travel beyond borders.</p>
                         </div>
                         <div class="about-block wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
                            <div class="inner-box">
@@ -146,7 +100,7 @@
                               </div>
                               <div class="content">
                                  <h4 class="title">Creative Solutions</h4>
-                                 <p class="text">In today's competitive business landscape, the need for efficient IT solutions has been more critical.</p>
+                                 <p class="text">We combine Indian storytelling and strategy with Middle Eastern market expertise to help brands grow with purpose, insight, and scale.Creative Thinking - We believe ideas rooted in behavioral science and design thinking can redefine how brands connect with people. </p>
                               </div>
                            </div>
                         </div>
@@ -161,7 +115,7 @@
                               </div>
                               <div class="content">
                                  <h4 class="title">Actionable Solutions</h4>
-                                 <p class="text">Innovation is the key to staying ahead in a changing world. We harness cutting-edge technology</p>
+                                 <p class="text">Actionable Strategy - Our regional teams in India and the Middle East bring strategy to life through data-driven marketing, content production, and media innovation that deliver measurable impact.</p>
                               </div>
                            </div>
                         </div>
@@ -177,14 +131,14 @@
                         </div>
                      </div>
                      <div class="info mt-50">
-                        <a href="page-services.html" class="btn-two">Find Services</a>
+                        <a href="contact.php" class="btn-two">Get in touch</a>
                         <div class="user">
                            <div class="image">
                               <img src="images/about/about-user.png" alt="Image">
                            </div>
                            <div>
-                              <img class="sig" src="images/about/signature.png" alt="Image">
-                              <p class="sub-title">Founder</p>
+                              <span class="sig">Rishi Singh</span>
+                              <p class="sub-title">Director</p>
                            </div>
                         </div>
                      </div>
@@ -202,7 +156,7 @@
          </div>
          <div class="container">
             <div class="sec-title mb-50">
-               <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Service area</h6>
+               <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms"> Service Offerings</h6>
                <div class="flex-content">
                   <h2 class="title wow splt-txt" data-splitting>Empowering Your Brand <br> Innovative Solutions</h2>
                   <a class="btn-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-services.html">All Services</a>
@@ -232,8 +186,8 @@
                            </figure>
                            <div class="content">
                               <span class="number">01</span>
-                              <h4 class="title"><a href="page-services.html">Market research</a></h4>
-                              <p class="text">Sed ut perspiciatis unde is voluptatem accusant</p>
+                              <h4 class="title"><a href="#">Branding </a></h4>
+                              <p class="text">We build brands that move people — combining strategy, design, and storytelling to create identities that stand out and scale across markets.</p>
                            </div>
                         </div>
                         <div class="image-box">
@@ -274,8 +228,8 @@
                            </figure>
                            <div class="content">
                               <span class="number">02</span>
-                              <h4 class="title"><a href="page-services.html">Financial Consulting</a></h4>
-                              <p class="text">Sed ut perspiciatis unde is voluptatem accusant</p>
+                              <h4 class="title"><a href="#">Marketing</a></h4>
+                              <p class="text"> From digital strategy to performance execution, we craft data-driven campaigns that connect creativity with measurable business growth.</p>
                            </div>
                         </div>
                         <div class="image-box">
@@ -301,8 +255,8 @@
                            </figure>
                            <div class="content">
                               <span class="number">03</span>
-                              <h4 class="title"><a href="page-services.html">Branding Consulting</a></h4>
-                              <p class="text">Sed ut perspiciatis unde is voluptatem accusant</p>
+                              <h4 class="title"><a href="#">Advertising  </a></h4>
+                              <p class="text">Ideas that cut through clutter. Our cross-market campaigns blend insight, culture, and creativity to make brands impossible to ignore.</p>
                            </div>
                         </div>
                         <div class="image-box">
@@ -330,83 +284,14 @@
                               <img src="images/shape/service-item-shape.png" alt="IMage">
                            </figure>
                            <div class="content">
-                              <span class="number">01</span>
-                              <h4 class="title"><a href="page-services.html">Market research</a></h4>
-                              <p class="text">Sed ut perspiciatis unde is voluptatem accusant</p>
+                              <span class="number">04</span>
+                              <h4 class="title"><a href="#">Events</a></h4>
+                              <p class="text"> We bring brands to life through experiences that engage, inspire, and leave lasting impressions — from launch events to large-scale activations.</p>
                            </div>
                         </div>
                         <div class="image-box">
                            <figure class="image">
                               <img src="images/service/service-image1.jpg" alt="Image">
-                           </figure>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="service-block">
-                        <a class="arry-btn" href="page-service-details.html"><i class="fa-regular fa-arrow-up-right"></i></a>
-                        <div class="content-box">
-                           <div class="icon">
-                              <svg width="92" height="93" viewBox="0 0 92 93" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path
-                                    d="M24.6109 58.8567C25.47 58.3611 25.7641 57.2613 25.2686 56.4021C24.7723 55.5437 23.6732 55.2489 22.814 55.7444C21.9549 56.2407 21.6601 57.3406 22.1563 58.199C22.6519 59.0581 23.7518 59.3529 24.6109 58.8567Z"
-                                    fill="#C6D936" />
-                                 <path
-                                    d="M17.2472 71.2591L26.2961 86.9333C28.2488 90.3193 32.6413 91.5729 36.1151 89.5647C39.5523 87.5783 40.7336 83.1865 38.7451 79.7465L33.3545 70.4083L38.0228 67.713C38.882 67.2161 39.1768 66.1176 38.6805 65.2585L36.3439 61.2113C36.6225 61.1573 38.4545 60.7979 70.7611 54.4604C74.7549 54.2435 77.1477 49.8756 75.1304 46.3836L69.1586 36.0403L72.9749 30.2601C73.3497 29.6916 73.3721 28.9609 73.0317 28.3713L69.438 22.1468C69.0975 21.5572 68.4511 21.2119 67.7738 21.2519L60.8607 21.6667L54.2312 10.1836C53.271 8.52008 51.5506 7.51285 49.6302 7.48898C49.6071 7.48828 49.5846 7.48828 49.5614 7.48828C47.7056 7.48828 46.021 8.41199 45.0229 9.97372L21.5498 39.8762L6.28974 48.6865C0.287752 52.1504 -1.79129 59.8503 1.68595 65.8684C4.86276 71.3714 11.5603 73.536 17.2472 71.2591ZM35.6336 81.5441C36.626 83.2609 36.0386 85.4579 34.3168 86.4525C32.5894 87.4513 30.3896 86.8378 29.4084 85.1371L20.424 69.5738L26.6485 65.98C37.0465 83.9923 35.4665 81.2556 35.6336 81.5441ZM31.5576 67.2954L29.7607 64.1832L32.873 62.3863L34.6698 65.4985L31.5576 67.2954ZM66.8809 24.9053L69.3643 29.2066L67.1498 32.5603L62.8695 25.1461L66.8809 24.9053ZM48.0285 11.944C48.5107 11.155 49.2758 11.0736 49.586 11.082C49.8927 11.0855 50.6571 11.181 51.1183 11.9798L72.0182 48.1805C72.699 49.359 71.8715 50.8407 70.5063 50.8744C70.2613 50.88 70.1483 50.9242 69.5208 51.0414L47.4129 12.7491C47.8769 12.1524 47.9365 12.0949 48.0285 11.944ZM45.0215 15.7953L65.793 51.7728L34.4445 57.9215L24.9127 41.412L45.0215 15.7953ZM4.79819 64.0716C4.00925 62.7064 3.59232 61.1566 3.59232 59.5885C3.59232 56.3836 5.31479 53.3991 8.08661 51.7988L22.0917 43.7128L31.0761 59.274L17.071 67.3607C12.7802 69.837 7.27521 68.3616 4.79819 64.0716Z"
-                                    fill="#C6D936" />
-                                 <path
-                                    d="M19.044 59.9963C18.5478 59.1372 17.4486 58.8424 16.5895 59.3387L13.4772 61.1355C12.6195 61.6311 11.5182 61.3356 11.0227 60.4778C10.5264 59.6187 9.42725 59.3239 8.56812 59.8202C7.70899 60.3164 7.41418 61.4156 7.91043 62.2747C9.38935 64.8367 12.6883 65.74 15.2741 64.2478L18.3864 62.4509C19.2455 61.9546 19.5403 60.8562 19.044 59.9963Z"
-                                    fill="#C6D936" />
-                                 <path
-                                    d="M89.3292 11.3308L79.3165 16.9026C78.4497 17.3855 78.1373 18.4797 78.6202 19.3466C79.1018 20.2127 80.1953 20.5265 81.0643 20.0429L91.0762 14.4712C91.9438 13.9883 92.2554 12.894 91.7725 12.0271C91.2903 11.1596 90.196 10.8479 89.3292 11.3308Z"
-                                    fill="#C6D936" />
-                                 <path
-                                    d="M88.2792 29.9413L81.3366 28.0812C80.3778 27.8243 79.3924 28.3929 79.1355 29.3517C78.8786 30.3105 79.4478 31.2953 80.4066 31.5522L87.3498 33.4122C88.3143 33.6712 89.2948 33.0935 89.5503 32.1418C89.8072 31.183 89.238 30.1975 88.2792 29.9413Z"
-                                    fill="#C6D936" />
-                                 <path
-                                    d="M70.8327 4.80287L68.9705 11.7461C68.7136 12.7049 69.2822 13.6897 70.241 13.9473C71.1991 14.2035 72.1846 13.6363 72.4421 12.6768L74.3036 5.73359C74.5605 4.77479 73.992 3.78931 73.0332 3.53242C72.0751 3.27552 71.0896 3.84406 70.8327 4.80287Z"
-                                    fill="#C6D936" />
-                              </svg>
-                           </div>
-                           <figure class="shape">
-                              <img src="images/shape/service-item-shape.png" alt="IMage">
-                           </figure>
-                           <div class="content">
-                              <span class="number">02</span>
-                              <h4 class="title"><a href="page-services.html">Financial Consulting</a></h4>
-                              <p class="text">Sed ut perspiciatis unde is voluptatem accusant</p>
-                           </div>
-                        </div>
-                        <div class="image-box">
-                           <figure class="image">
-                              <img src="images/service/service-image2.jpg" alt="Image">
-                           </figure>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                     <div class="service-block">
-                        <a class="arry-btn" href="page-service-details.html"><i class="fa-regular fa-arrow-up-right"></i></a>
-                        <div class="content-box">
-                           <div class="icon">
-                              <svg width="85" height="85" viewBox="0 0 85 85" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path
-                                    d="M32.6606 27.7708C36.2014 27.6781 39.5661 26.2064 42.0377 23.6693C44.5093 21.1322 45.8925 17.7301 45.8925 14.1881C45.8925 10.6461 44.5093 7.24409 42.0377 4.70695C39.5661 2.16981 36.2014 0.698128 32.6606 0.605469C29.0582 0.634279 25.6102 2.07243 23.055 4.61198C20.4998 7.15153 19.0405 10.5906 18.9896 14.1928C19.0093 17.8039 20.4589 21.2602 23.0211 23.805C25.5833 26.3498 29.0494 27.7757 32.6606 27.7708ZM13.3817 69.193L1.14289 81.4411C0.828407 81.7556 0.651733 82.1821 0.651733 82.6268C0.651733 83.0716 0.828407 83.4981 1.14289 83.8126C1.45737 84.1271 1.88389 84.3037 2.32864 84.3037C2.77338 84.3037 3.19991 84.1271 3.51439 83.8126L15.7625 71.5645C16.0461 71.2429 16.1962 70.8252 16.1824 70.3967C16.1685 69.9682 15.9917 69.5611 15.6879 69.2585C15.3841 68.956 14.9764 68.7807 14.5478 68.7685C14.1192 68.7563 13.7021 68.9081 13.3817 69.193ZM82.2017 25.7806L57.2498 32.5231C56.9608 32.592 56.6965 32.7397 56.4863 32.9496C56.2761 33.1596 56.1281 33.4237 56.0587 33.7126C55.9894 34.0015 56.0014 34.304 56.0934 34.5865C56.1855 34.869 56.354 35.1205 56.5802 35.3131L60.3002 39.0331L53.1857 46.8265V42.3625C53.1857 35.4247 46.9175 25.9294 39.2357 29.2495C35.0065 30.9434 30.294 30.9799 26.039 29.3518C18.3479 25.9294 11.9867 35.4247 11.9867 42.3718V54.0805C12.0044 55.0165 12.2573 55.9329 12.7221 56.7455C13.1869 57.5581 13.8487 58.2407 14.6465 58.7305L9.77329 63.8455C8.25739 65.3614 10.7033 67.6399 12.1541 66.124L23.1653 54.4618L37.6919 66.2449C38.023 66.5139 38.4455 66.6439 38.8706 66.6075C39.2956 66.5711 39.6899 66.371 39.9704 66.0496C47.9405 57.4099 55.9199 48.7702 63.89 40.0096C64.1761 39.6933 64.3267 39.2774 64.3093 38.8513C64.2919 38.4252 64.1079 38.0229 63.797 37.7311L60.9512 34.876L80.3138 29.6494L75.1895 49.1422L72.725 46.6777C72.3896 46.394 71.9601 46.2463 71.5212 46.2635C71.0823 46.2807 70.6657 46.4616 70.3535 46.7707L38.3522 80.3995L25.5368 69.7603C25.2069 69.4901 24.785 69.3585 24.36 69.3932C23.935 69.4279 23.54 69.6262 23.2583 69.9463L14.7116 79.3486C13.1957 80.9668 15.6416 83.1523 17.1854 81.5341L24.6812 73.3687L37.4966 83.9149C37.8084 84.1847 38.2118 84.3245 38.6237 84.3055C39.0356 84.2864 39.4244 84.11 39.71 83.8126L71.609 50.3326L74.8361 53.5597C75.0527 53.7598 75.3165 53.9019 75.6028 53.9727C75.8891 54.0434 76.1887 54.0406 76.4736 53.9645C76.7586 53.8884 77.0196 53.7415 77.2325 53.5374C77.4454 53.3332 77.6032 53.0786 77.6912 52.7971L84.35 27.7708C84.4187 27.4871 84.4116 27.1904 84.3295 26.9104C84.2473 26.6304 84.093 26.3768 83.882 26.1752C83.671 25.9737 83.4107 25.8311 83.1272 25.7618C82.8437 25.6925 82.547 25.699 82.2668 25.7806H82.2017ZM38.4917 62.7295L24.5417 51.3277V43.3855C24.5103 42.9667 24.3218 42.5752 24.0139 42.2895C23.7061 42.0039 23.3016 41.8451 22.8816 41.8451C22.4617 41.8451 22.0572 42.0039 21.7493 42.2895C21.4415 42.5752 21.253 42.9667 21.2216 43.3855V51.7555L16.9436 56.3125C15.53 55.4755 15.2882 54.6571 15.2882 54.0805V42.3067C15.2882 37.8427 19.4639 30.0493 24.7742 32.3278C29.8432 34.3864 35.5152 34.3864 40.5842 32.3278C45.8108 30.0493 49.8842 37.8427 49.8842 42.3067V50.3791L43.9973 56.7403V43.3855C43.9973 42.9403 43.8204 42.5133 43.5056 42.1985C43.1908 41.8837 42.7639 41.7068 42.3186 41.7068C41.8734 41.7068 41.4465 41.8837 41.1317 42.1985C40.8168 42.5133 40.64 42.9403 40.64 43.3855V60.358L38.4917 62.7295ZM32.6606 3.92557C34.6294 3.92815 36.5556 4.49877 38.2081 5.56895C39.8605 6.63914 41.1691 8.16343 41.9768 9.95891C42.7844 11.7544 43.0568 13.7448 42.7613 15.6912C42.4657 17.6377 41.6148 19.4575 40.3106 20.9324C39.0064 22.4072 37.3044 23.4743 35.4087 24.0058C33.513 24.5372 31.5042 24.5104 29.6234 23.9285C27.7426 23.3465 26.0697 22.2343 24.8054 20.7251C23.5411 19.216 22.7391 17.374 22.4957 15.4204C24.9044 16.0154 27.4308 15.9315 29.7948 15.178C32.1587 14.4245 34.2677 13.0309 35.8877 11.1517C37.3106 9.53347 34.7438 7.34797 33.3209 8.96617C32.0381 10.4813 30.333 11.5798 28.4231 12.1215C26.5132 12.6631 24.4852 12.6234 22.598 12.0073C23.0915 9.7092 24.3614 7.65118 26.194 6.17934C28.0266 4.7075 30.3102 3.91163 32.6606 3.92557Z"
-                                    fill="#C6D936" />
-                              </svg>
-                           </div>
-                           <figure class="shape">
-                              <img src="images/shape/service-item-shape.png" alt="IMage">
-                           </figure>
-                           <div class="content">
-                              <span class="number">03</span>
-                              <h4 class="title"><a href="page-services.html">Branding Consulting</a></h4>
-                              <p class="text">Sed ut perspiciatis unde is voluptatem accusant</p>
-                           </div>
-                        </div>
-                        <div class="image-box">
-                           <figure class="image">
-                              <img src="images/service/service-image3.jpg" alt="Image">
                            </figure>
                         </div>
                      </div>
@@ -422,7 +307,7 @@
                   <div class="inner-column">
                      <div class="sec-title mb-30">
                         <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Mission & Vision</h6>
-                        <h2 class="title wow splt-txt" data-splitting>we handle complexities, so you can drive growth and success.</h2>
+                        <h2 class="title wow splt-txt" data-splitting></h2>
                      </div>
                      <div class="choose-tab">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -440,74 +325,72 @@
                      <div class="tab-content mt-30" id="myTabContent">
                         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                            <div class="content-box">
-                              <p class="text"> At veroeos accusamus dignissimos ducimus blanditiis volupta delenite atque corrupti quos dolores et quas molestias excepturi sint occaecatie</p>
+                              <p class="text">We are a cross-border creative agency built on collaboration. From strategy to execution, we unite storytelling, design, and performance to build brands that move people and markets.</p>
                               <div class="list mt-30 mb-50">
                                  <ul>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Optimized Sprint Planning
+                                       <i class="fa-solid fa-check"></i> Integrated Brand Thinking
                                     </li>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Continuous Improvement
+                                       <i class="fa-solid fa-check"></i>  Regional Market Expertise
                                     </li>
                                  </ul>
                                  <ul>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Incremental Delivery Approach
+                                       <i class="fa-solid fa-check"></i> Strategic Storytelling
                                     </li>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Delivering Innovative
+                                       <i class="fa-solid fa-check"></i>  Measurable Creative Impact
                                     </li>
                                  </ul>
                               </div>
-                              <a href="page-about.html" class="btn-two">Discover More</a>
+                              <!-- <a href="page-about.html" class="btn-two">Discover More</a> -->
                            </div>
                         </div>
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                            <div class="content-box">
-                              <p class="text"> At veroeos accusamus dignissimos ducimus blanditiis volupta delenite atque corrupti quos dolores et quas molestias excepturi sint occaecatie</p>
+                              <p class="text"> To help brands grow beyond borders — through creativity that connects, strategy that converts, and ideas that create cultural relevance across India and the Middle East.</p>
                               <div class="list mt-30 mb-50">
                                  <ul>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Optimized Sprint Planning
-                                    </li>
+                                       <i class="fa-solid fa-check"></i>  Driving Cross-Market Growth</li>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Continuous Improvement
-                                    </li>
+                                       <i class="fa-solid fa-check"></i> Blending Creativity with Data</li>
                                  </ul>
                                  <ul>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Incremental Delivery Approach
+                                       <i class="fa-solid fa-check"></i> Scaling Local Insight Globally
                                     </li>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Delivering Innovative
+                                       <i class="fa-solid fa-check"></i> Building Long-Term Brand Equity
                                     </li>
                                  </ul>
                               </div>
-                              <a href="page-about.html" class="btn-two">Discover More</a>
+                              <!-- <a href="page-about.html" class="btn-two">Discover More</a> -->
                            </div>
                         </div>
                         <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                            <div class="content-box">
-                              <p class="text"> At veroeos accusamus dignissimos ducimus blanditiis volupta delenite atque corrupti quos dolores et quas molestias excepturi sint occaecatie</p>
+                              <p class="text"> To redefine what independent agencies can achieve globally — combining the agility of startups with the strategic depth of networks. We call it the Big Indie Mindset — bold, human, and borderless.</p>
                               <div class="list mt-30 mb-50">
                                  <ul>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Optimized Sprint Planning
+                                       <i class="fa-solid fa-check"></i>  Empowering Independent Creativity
                                     </li>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Continuous Improvement
+                                       <i class="fa-solid fa-check"></i> Creating Culturally Relevant Brands
                                     </li>
                                  </ul>
                                  <ul>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Incremental Delivery Approach
+                                       <i class="fa-solid fa-check"></i>  Inspiring Global Collaboration
                                     </li>
                                     <li>
-                                       <i class="fa-solid fa-check"></i> Delivering Innovative
+                                       <i class="fa-solid fa-check"></i>  Leading with Purpose
                                     </li>
                                  </ul>
                               </div>
-                              <a href="page-about.html" class="btn-two">Discover More</a>
+                              <!-- <a href="page-about.html" class="btn-two">Discover More</a> -->
                            </div>
                         </div>
                      </div>
@@ -560,8 +443,8 @@
             <div class="sec-title pb-50 mb-50">
                <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Growth Rate</h6>
                <div class="flex-content">
-                  <h2 class="title text-white wow splt-txt" data-splitting>Building Connections for grow <br> Limitless Opportunities.</h2>
-                  <a class="btn-one-light border-0 rounded-0 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-about.html">Discover More</a>
+                  <h2 class="title text-white wow splt-txt" data-splitting>Building Brands Beyond Borders.</br>Creating Limitless Opportunities for Growth.</h2>
+                  <a class="btn-one-light border-0 rounded-0 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="contact.php">Discover More</a>
                </div>
             </div>
             <div class="row g-5">
@@ -577,7 +460,7 @@
                         </div>
                      </div>
                      <div class="content-box">
-                        <h4 class="title">Scalable Solutions</h4>
+                        <h4 class="title">Brand Impact</h4>
                         <p class="text">End to end fiber optic cable nnectivity for stable</p>
                      </div>
                   </div>
@@ -592,8 +475,8 @@
                         </div>
                      </div>
                      <div class="content-box">
-                        <h4 class="title">Automation Features</h4>
-                        <p class="text">End to end fiber optic cable nnectivity for stable</p>
+                        <h4 class="title">Creative Efficiency</h4>
+                        <p class="text"> Projects delivered on time with adaptive cross-market collaboration.</p>
                      </div>
                   </div>
                </div>
@@ -609,8 +492,8 @@
                         </div>
                      </div>
                      <div class="content-box">
-                        <h4 class="title">24/7 Support</h4>
-                        <p class="text">End to end fiber optic cable nnectivity for stable</p>
+                        <h4 class="title">Client Retention</h4>
+                        <p class="text">Long-term partnerships built on trust, performance, and creativity.</p>
                      </div>
                   </div>
                </div>
@@ -624,7 +507,7 @@
          <div class="container">
             <div class="sec-title center mb-50">
                <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">How It Works</h6>
-               <h2 class="title wow splt-txt" data-splitting>Connect, Collaborate, & Create <br> Limitless Opportunities.
+               <h2 class="title wow splt-txt" data-splitting>Connect, Collaborate, and </br>Create Brands Without Borders.
                </h2>
             </div>
             <div class="outer-box">
@@ -633,8 +516,8 @@
                      <div class="processing-block">
                         <div class="inner-box">
                            <h3 class="number">01</h3>
-                           <h4 class="title">Strategic Growth</h4>
-                           <p class="text">Your Source for Market Trends & Business Intelligence</p>
+                           <h4 class="title"> Strategic Discovery</h4>
+                           <p class="text">We start by understanding your brand’s purpose, audience, and market dynamics — turning insights into actionable strategies.</p>
                         </div>
                      </div>
                   </div>
@@ -642,8 +525,8 @@
                      <div class="processing-block">
                         <div class="inner-box">
                            <h3 class="number">02</h3>
-                           <h4 class="title">Fuel Innovation</h4>
-                           <p class="text">Sparking Innovation, Shaping Tomorrow successful</p>
+                           <h4 class="title">Creative Innovation</h4>
+                           <p class="text">Our teams in India and the UAE collaborate to craft ideas that merge storytelling with design, built to resonate across cultures.</p>
                         </div>
                      </div>
                   </div>
@@ -651,8 +534,8 @@
                      <div class="processing-block">
                         <div class="inner-box">
                            <h3 class="number">03</h3>
-                           <h4 class="title">Financial Planning</h4>
-                           <p class="text">Helping You Stay on Track with Accurate Estimates</p>
+                           <h4 class="title"> Integrated Execution</h4>
+                           <p class="text">From digital campaigns to production and media, we bring every idea to life with precision and measurable performance.</p>
                         </div>
                      </div>
                   </div>
@@ -660,19 +543,17 @@
                      <div class="processing-block">
                         <div class="inner-box last-block">
                            <h3 class="number">04</h3>
-                           <h4 class="title">Sustainable Success</h4>
-                           <p class="text">Amazing Support! with lot of ele
-                              demos to choose from top
-                           </p>
+                           <h4 class="title">Sustainable Growth</h4>
+                           <p class="text">We don’t just deliver projects — we build partnerships that evolve, scale, and sustain long-term brand success. </p>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
-            <h5 class="sec-text mt-50 wow fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">Embrace Innovation, Adapt Quickly, and Lead with Confidence. <a href="page-contact.html">Consult Now</a></h5>
+            <h5 class="sec-text mt-50 wow fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">Embrace Innovation, Adapt Quickly, and Lead with Confidence. <a href="contact.php">Consult Now</a></h5>
          </div>
       </section>
-      <section class="case-section have-combine pt-120 pb-120">
+      <!-- <section class="case-section have-combine pt-120 pb-120">
          <div class="outer-box">
             <div class="sec-title center mb-50">
                <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Case study</h6>
@@ -829,8 +710,8 @@
                </div>
             </div>
          </div>
-      </section>
-      <section class="strategy-section">
+      </section> -->
+      <!-- <section class="strategy-section">
          <div class="sec-shape">
             <img class="animation__rotateAndScale" src="images/shape/stategy-globe.png" alt="Image">
          </div>
@@ -898,7 +779,7 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!-- <section id="team" class="team-section pt-120 pb-120">
          <div class="team-shape wow slideInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
             <img class="sway__animation" src="images/shape/team-shape.png" alt="Image">
@@ -1019,8 +900,8 @@
                         <div class="sec-title">
                            <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">FAQ’S</h6>
                            <h2 class="title text-white wow splt-txt" data-splitting>Frequently Asked Questions</h2>
-                           <p class="text text-white wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Consultez is the hub for early adopters and innovation enthusiasts, offering vibrant, imaginative technology before it becomes mainstream.</p>
-                           <a class="btn-one-light border-0 wow fadeInUp rounded-0 mt-50" data-wow-delay="400ms" data-wow-duration="1500ms" href="page-contact.html">Get a quate</a>
+                           <p class="text text-white wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Awesome Panama brings together the strengths of India and the Middle East to deliver strategic, creative, and performance-driven marketing solutions. Here’s everything you might want to know about how we work.</p>
+                           <a class="btn-one-light border-0 wow fadeInUp rounded-0 mt-50" data-wow-delay="400ms" data-wow-duration="1500ms" href="contact.php">Get a quate</a>
                         </div>
                      </div>
                      <div class="col-lg-7">
@@ -1030,16 +911,12 @@
                                  <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseFive2" aria-expanded="false" aria-controls="collapseFive2">
-                                    How Can Business Consulting Benefit My Company?
+                                    1. How can Awesome Panama help my brand grow?
                                     </button>
                                  </h2>
                                  <div id="collapseFive2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                                     <div class="accordion-body">
-                                       <p class="text">It is widely recognized that a reader's attention can be diverted by the
-                                          content layout of a page.
-                                          Many desktop
-                                          publishing software and website editors now use Lorem Ipsum as their default placeholder
-                                          text.
+                                       <p class="text">We combine behavioral insight, creativity, and regional market understanding to help brands connect deeply and scale effectively across India and the GCC.
                                        </p>
                                     </div>
                                  </div>
@@ -1048,16 +925,13 @@
                                  <h2 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseOne2" aria-expanded="true" aria-controls="collapseOne2">
-                                    What Are the Costs of Your Consulting Services?
+                                    2. What services do you offer?
                                     </button>
                                  </h2>
                                  <div id="collapseOne2" class="accordion-collapse collapse show"
                                     data-bs-parent="#accordionExample2">
                                     <div class="accordion-body">
-                                       <p class="text">It is widely recognized that a reader's attention can be diverted by the
-                                          content layout of a page. Many desktop
-                                          publishing software and website editors now use Lorem Ipsum as their default placeholder
-                                          text.
+                                       <p class="text">Our core capabilities include Branding, Marketing, Advertising, and Events — all backed by strategy, design, and digital performance.
                                        </p>
                                     </div>
                                  </div>
@@ -1066,16 +940,12 @@
                                  <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
-                                    How Do You Measure the Success of a Project?
+                                    3. How do you measure success?
                                     </button>
                                  </h2>
                                  <div id="collapseTwo2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                                     <div class="accordion-body">
-                                       <p class="text">It is widely recognized that a reader's attention can be diverted by the
-                                          content layout of a page.
-                                          Many desktop
-                                          publishing software and website editors now use Lorem Ipsum as their default placeholder
-                                          text.
+                                       <p class="text">Every campaign is tracked through data analytics, engagement metrics, and brand growth indicators — ensuring creativity drives measurable results.
                                        </p>
                                     </div>
                                  </div>
@@ -1084,16 +954,12 @@
                                  <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseThree2" aria-expanded="false" aria-controls="collapseThree2">
-                                    Do You Provide Remote Consulting Services?
+                                    . Do you work with both Indian and Middle Eastern clients?
                                     </button>
                                  </h2>
                                  <div id="collapseThree2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                                     <div class="accordion-body">
-                                       <p class="text">It is widely recognized that a reader's attention can be diverted by the
-                                          content layout of a page.
-                                          Many desktop
-                                          publishing software and website editors now use Lorem Ipsum as their default placeholder
-                                          text.
+                                       <p class="text">Yes. We serve clients across both regions, helping Indian brands expand into the GCC and Middle Eastern brands enter the Indian market.
                                        </p>
                                     </div>
                                  </div>
@@ -1102,16 +968,12 @@
                                  <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                        data-bs-target="#collapseFour2" aria-expanded="false" aria-controls="collapseFour2">
-                                    What Industries Do You Specialize In?
+                                    Can we collaborate remotely?
                                     </button>
                                  </h2>
                                  <div id="collapseFour2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                                     <div class="accordion-body">
-                                       <p class="text">It is widely recognized that a reader's attention can be diverted by the
-                                          content layout of a page.
-                                          Many desktop
-                                          publishing software and website editors now use Lorem Ipsum as their default placeholder
-                                          text.
+                                       <p class="text">Absolutely. Our teams in Lucknow, Sharjah, and Dubai work seamlessly across geographies through digital collaboration and shared creative workflows.
                                        </p>
                                     </div>
                                  </div>
@@ -1124,7 +986,7 @@
             </div>
          </div>
       </section>
-      <section id="testimonial" class="testimonial-section">
+      <!-- <section id="testimonial" class="testimonial-section">
          <div class="outer-box">
             <figure class="shape">
                <img src="images/shape/testimonial-shape.png" alt="Image">
@@ -1482,7 +1344,7 @@
                <div class="swiper-dot text-center blog-pagination mt-40"></div>
             </div>
          </div>
-      </section>
+      </section> -->
       <?php include('footer.php'); ?>
       </div><!-- End Page Wrapper -->
       <script src="js/jquery.js"></script>
