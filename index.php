@@ -134,7 +134,7 @@
                         <a href="contact.php" class="btn-two">Get in touch</a>
                         <div class="user">
                            <div class="image">
-                              <img src="images/about/about-user.png" alt="Image">
+                              <img src="images/Rishisingh.jpg" alt="Rishi Singh">
                            </div>
                            <div>
                               <span class="sig">Rishi Singh</span>

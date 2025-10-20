@@ -3405,7 +3405,7 @@ Main Header
 .main-header .main-box .nav-outer {
   position: relative;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 14px;
 }
 
 .main-menu {
@@ -4835,7 +4835,7 @@ Sticky Header
   padding: 10px 0;
 }
 .sticky-header .logo img {
-  max-height: 40px;
+  /* max-height: 40px; */
 }
 .sticky-header .nav-outer {
   background: none;
