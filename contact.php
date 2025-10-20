@@ -104,10 +104,6 @@
                      <div class="inner-column">
                         <div class="sec-title mb-30">
                            <h2 class="title wow splt-txt" data-splitting>Get in touch</h2>
-                           <p class="text wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Lorem ipsum dolor sit
-                              amet consectetur adipiscing elit mattis
-                              faucibus <br> odio feugiat arc dolor.
-                           </p>
                         </div>
                         <div class="google-map">
                           

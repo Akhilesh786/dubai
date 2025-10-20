@@ -64,11 +64,10 @@
                               <h4 class="widget-title">Services</h4>
                               <div class="widget-content">
                                  <ul class="user-links">
-                                    <li><a href="#0">Digital Marketing</a></li>
-                                    <li><a href="#0">Innovation Space</a></li>
-                                    <li><a href="#0">Competitive Analysis</a></li>
-                                    <li><a href="#0">Market Research</a></li>
-                                    <li><a href="#0">HR Management</a></li>
+                                    <li><a href="javascript:void(0)">Branding</a></li>
+                                    <li><a href="javascript:void(0)">Marketing</a></li>
+                                    <li><a href="javascript:void(0)">Advertising</a></li>
+                                    <li><a href="javascript:void(0)">Events</a></li>
                                  </ul>
                               </div>
                            </div>
@@ -78,26 +77,26 @@
                               <h4 class="widget-title">Pages</h4>
                               <div class="widget-content">
                                  <ul class="user-links">
-                                    <li><a href="#0">Our Blog</a></li>
+                                    <!-- <li><a href="#0">Our Blog</a></li>
                                     <li><a href="#0">Success Stories</a></li>
-                                    <li><a href="#0">Customers Review</a></li>
-                                    <li><a href="#0">Contact Us</a></li>
-                                    <li><a href="#0">About Us</a></li>
+                                    <li><a href="#0">Customers Review</a></li> -->
+                                    <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="https://awesomepanama.com/#about">About Us</a></li>
                                  </ul>
                               </div>
                            </div>
                         </div>
                         <div class="col-lg-4 footer-column">
                            <div class="footer-widget links-widget">
-                              <h4 class="widget-title">Signup Newsletter</h4>
-                              <div class="input-feild">
+                              <!-- <h4 class="widget-title">Signup Newsletter</h4> -->
+                              <!-- <div class="input-feild">
                                  <input type="text" placeholder="Email Address">
                                  <a class="btn-one-rounded" href="#0">Sign up now <i class="fa-regular fa-angle-right"></i></a>
-                              </div>
+                              </div> -->
                               <ul class="footer-nav">
                                  <li><a href="https://www.instagram.com/awesome_panama "><i class="fa-brands fa-instagram"></i></a></li>
-                     <li><a href=" https://x.com/Awesome_panama"><i class="fa-brands fa-x-twitter"></i></a></li>
-                     <li><a href="https://www.linkedin.com/company/awesome-panama/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                 <li><a href=" https://x.com/Awesome_panama"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                 <li><a href="https://www.linkedin.com/company/awesome-panama/"><i class="fa-brands fa-linkedin-in"></i></a></li>
                               </ul>
                            </div>
                         </div>

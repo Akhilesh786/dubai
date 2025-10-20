@@ -12,8 +12,8 @@
                </div>
                <div class="top-right">
                   <ul class="useful-links">
-                     <li><a href="#">About</a></li>
-                     <li><a href="#">Faqs</a></li>
+                     <li><a href="https://awesomepanama.com/#about">About</a></li>
+                     <li><a href="https://awesomepanama.com/#faq">Faqs</a></li>
                      <li><a href="contact.php">Contact</a></li>
                   </ul>
                   <ul class="top-social-icon">
@@ -39,7 +39,7 @@
                      <li>
                         <a href="https://awesomepanama.com/">Home</a>
                      </li>
-                     <li class="dropdown">
+                     <!-- <li class="dropdown">
                         <a href="#">Pages</a>
                         <ul>
                            <li><a href="#">About</a></li>
@@ -86,7 +86,7 @@
                            <li><a href="#">News Grid</a></li>
                            <li><a href="#">News Details</a></li>
                         </ul>
-                     </li>
+                     </li> -->
                      <li><a href="#">Contact</a></li>
                   </ul>
                </nav>
@@ -122,7 +122,7 @@
                   </ul>
                   <div class="content-box d-none d-lg-block">
                      <h4 class="title">About Us</h4>
-                     <p class="text">awesomepanama is the go-to hub for early adopters and innovation enthusiasts, offering cutting technology widely.</p>
+                     <p class="text">Awesome Panama is a strategic partnership between Awesome Sauce Creative (India) and Panama Advertising (UAE) — born from a shared belief that creativity should travel beyond borders.</p>
                   </div>
                   <ul class="contact-list-one">
                      <li>
@@ -130,7 +130,7 @@
                         <div class="contact-info-box">
                            <i class="icon lnr-icon-phone-handset"></i>
                            <span class="title">Call Now</span>
-                           <a href="#">+92 (8800) - 98670</a>
+                           <a href="#">+971 568586608</a>
                         </div>
                      </li>
                      <li>
@@ -138,7 +138,7 @@
                         <div class="contact-info-box">
                            <span class="icon lnr-icon-envelope1"></span>
                            <span class="title">Send Email</span>
-                           <a href="#">help@company.com</a>
+                           <a href="#">rishis@awesomepanama.com</a>
                         </div>
                      </li>
                      <li>

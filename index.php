@@ -169,7 +169,7 @@
                <div class="swiper-wrapper">
                   <div class="swiper-slide">
                      <div class="service-block">
-                        <a class="arry-btn" href="page-service-details.html"><i class="fa-regular fa-arrow-up-right"></i></a>
+                        <a class="arry-btn" href="#"><i class="fa-regular fa-arrow-up-right"></i></a>
                         <div class="content-box">
                            <div class="icon">
                               <svg width="84" height="85" viewBox="0 0 84 85" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -199,7 +199,7 @@
                   </div>
                   <div class="swiper-slide">
                      <div class="service-block">
-                        <a class="arry-btn" href="page-service-details.html"><i class="fa-regular fa-arrow-up-right"></i></a>
+                        <a class="arry-btn" href="#"><i class="fa-regular fa-arrow-up-right"></i></a>
                         <div class="content-box">
                            <div class="icon">
                               <svg width="92" height="93" viewBox="0 0 92 93" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -241,7 +241,7 @@
                   </div>
                   <div class="swiper-slide">
                      <div class="service-block">
-                        <a class="arry-btn" href="page-service-details.html"><i class="fa-regular fa-arrow-up-right"></i></a>
+                        <a class="arry-btn" href="#"><i class="fa-regular fa-arrow-up-right"></i></a>
                         <div class="content-box">
                            <div class="icon">
                               <svg width="85" height="85" viewBox="0 0 85 85" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -268,7 +268,7 @@
                   </div>
                   <div class="swiper-slide">
                      <div class="service-block">
-                        <a class="arry-btn" href="page-service-details.html"><i class="fa-regular fa-arrow-up-right"></i></a>
+                        <a class="arry-btn" href="#"><i class="fa-regular fa-arrow-up-right"></i></a>
                         <div class="content-box">
                            <div class="icon">
                               <svg width="84" height="85" viewBox="0 0 84 85" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -881,7 +881,7 @@
             </div>
          </div>
       </section> -->
-      <section class="faq-section">
+      <section class="faq-section" id="faq">
          <div class="row g-0">
             <div class="col-xl-4 d-none d-xl-block image-column">
                <div class="inner-column">
