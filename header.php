@@ -17,7 +17,6 @@
                      <li><a href="contact.php">Contact</a></li>
                   </ul>
                   <ul class="top-social-icon">
-                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                      <li><a href="https://www.instagram.com/awesome_panama "><i class="fa-brands fa-instagram"></i></a></li>
                      <li><a href=" https://x.com/Awesome_panama"><i class="fa-brands fa-x-twitter"></i></a></li>
                      <li><a href="https://www.linkedin.com/company/awesome-panama/"><i class="fa-brands fa-linkedin-in"></i></a></li>
@@ -30,7 +29,7 @@
          <div class="main-box">
             <div class="logo-box">
                <div class="logo">
-                  <a href="index" title=""><img src="images/logo.png" alt="" title="Consultez"></a>
+                  <a href="index" title=""><img src="images/logo.png" alt="" title="awesomepanama"></a>
                </div>
             </div>
             <!--Nav Box-->
@@ -115,7 +114,7 @@
                <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                <nav class="menu-box">
                   <div class="upper-box">
-                     <div class="nav-logo"><a href="index"><img src="images/logo-light.png" alt=""></a></div>
+                     <div class="nav-logo"><a href="index"><img src="images/logo_black.png" alt=""></a></div>
                      <div class="close-btn"><i class="icon fa fa-times"></i></div>
                   </div>
                   <ul class="navigation clearfix d-block d-lg-none">
@@ -123,7 +122,7 @@
                   </ul>
                   <div class="content-box d-none d-lg-block">
                      <h4 class="title">About Us</h4>
-                     <p class="text">Consultez is the go-to hub for early adopters and innovation enthusiasts, offering cutting technology widely.</p>
+                     <p class="text">awesomepanama is the go-to hub for early adopters and innovation enthusiasts, offering cutting technology widely.</p>
                   </div>
                   <ul class="contact-list-one">
                      <li>
@@ -152,10 +151,9 @@
                      </li>
                   </ul>
                   <ul class="social-links">
-                     <li><a href="#"><i class="fab fa-x-twitter"></i></a></li>
-                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                     <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                     <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                     <li><a href="https://www.instagram.com/awesome_panama "><i class="fa-brands fa-instagram"></i></a></li>
+                     <li><a href=" https://x.com/Awesome_panama"><i class="fa-brands fa-x-twitter"></i></a></li>
+                     <li><a href="https://www.linkedin.com/company/awesome-panama/"><i class="fa-brands fa-linkedin-in"></i></a></li>
                   </ul>
                </nav>
             </div>
@@ -165,7 +163,7 @@
                <span class="search-back-drop"></span>
                <button class="close-search"><span class="fa fa-times"></span></button>
                <div class="search-inner">
-                  <form action="https://php.kodesolution.com/2025/consultez-php/includes/sendmail.php" method="post">
+                  <form action="https://php.kodesolution.com/2025/awesomepanama-php/includes/sendmail.php" method="post">
                      <div class="form-group">
                         <input type="search" name="search-field" value="" placeholder="Search..." required="">
                         <button type="submit"><i class="fa fa-search"></i></button>
@@ -180,7 +178,7 @@
                   <div class="inner-container">
                      <!--Logo-->
                      <div class="logo">
-                        <a href="index" title=""><img src="images/logo.png" alt="" title=""></a>
+                        <a href="index" title=""><img src="images/logo_white.png" alt="" title=""></a>
                      </div>
                      <!--Right Col-->
                      <div class="nav-outer">

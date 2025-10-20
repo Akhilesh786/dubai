@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html  lang="en">
-   <!-- Mirrored from php.kodesolution.com/2025/consultez-php/page-contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 16:29:11 GMT -->
+   <!-- Mirrored from php.kodesolution.com/2025/awesomepanama-php/page-contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 16:29:11 GMT -->
    <!-- Added by HTTrack -->
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
    <!-- /Added by HTTrack -->

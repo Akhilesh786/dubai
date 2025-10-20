@@ -2,7 +2,7 @@
          <div class="outer-box">
             <div class="footer-left">
                <div class="logo">
-                  <a href="index"><img src="images/logo.png" alt="Logo"></a>
+                  <a href="index"><img src="images/logo_black.png" alt="Logo"></a>
                </div>
                <button class="back-top-btn mobile-nav-toggler">
                   <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -95,10 +95,9 @@
                                  <a class="btn-one-rounded" href="#0">Sign up now <i class="fa-regular fa-angle-right"></i></a>
                               </div>
                               <ul class="footer-nav">
-                                 <li><a href="#0"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                 <li><a href="#0"><i class="fa-solid fa-x"></i></a></li>
-                                 <li><a href="#0"><i class="fa-brands fa-vimeo-v"></i></a></li>
-                                 <li><a href="#0"><i class="fa-brands fa-pinterest-p"></i></a></li>
+                                 <li><a href="https://www.instagram.com/awesome_panama "><i class="fa-brands fa-instagram"></i></a></li>
+                     <li><a href=" https://x.com/Awesome_panama"><i class="fa-brands fa-x-twitter"></i></a></li>
+                     <li><a href="https://www.linkedin.com/company/awesome-panama/"><i class="fa-brands fa-linkedin-in"></i></a></li>
                               </ul>
                            </div>
                         </div>
