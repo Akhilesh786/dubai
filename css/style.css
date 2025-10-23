@@ -54,13 +54,13 @@ License: copyright commercial
   --theme-color-black: #000000;
   --theme-color-black-rgb: 0, 0, 0;
   --theme-color-silver: #C4C4C4;
-  --theme-color1: #c6d936;
+  --theme-color1: #f2672b;
   --theme-color1-rgb: 198, 217, 54;
-  --theme-color2: #1a4137;
+  --theme-color2: #2c677f;
   --theme-color2-rgb: 26, 65, 55;
-  --theme-color3: #102930;
+  --theme-color3: #2c677fd6;
   --theme-color3-rgb: 16, 41, 48;
-  --theme-color4: #163839;
+  --theme-color4: #2c677fd6;
   --theme-color4-rgb: 22, 56, 57;
   --theme-color5: #001726;
   --theme-color5-rgb: 0, 23, 38;
@@ -4836,6 +4836,7 @@ Sticky Header
 }
 .sticky-header .logo img {
   max-height: auto;  
+      max-width: 70%;
 }
 .sticky-header .nav-outer {
   background: none;
@@ -5535,7 +5536,7 @@ Section Title
   width: 100%;
   height: 100%;
   content: "";
-  background: radial-gradient(95.51% 264.21% at 92.63% 41.85%, rgba(0, 7, 31, 0) 0%, rgba(4, 44, 42, 0.98) 99.98%, rgba(4, 44, 42, 0.98) 99.99%);
+  background: radial-gradient(95.51% 264.21% at 92.63% 41.85%, rgba(0, 7, 31, 0) 0%, rgb(76 125 146) 99.98%, rgb(44 103 127) 99.99%);
   z-index: 1;
 }
 .banner-section .banner-slider .swiper-slide-active .slide-bg {
@@ -9590,7 +9591,7 @@ Section Title
   left: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(95.51% 264.21% at 92.63% 41.85%, rgba(0, 7, 31, 0) 0%, rgba(4, 44, 42, 0.98) 99.98%, rgba(4, 44, 42, 0.98) 99.99%);
+  background: radial-gradient(95.51% 264.21% at 92.63% 41.85%, rgba(0, 7, 31, 0) 0%, rgb(76 125 146) 99.98%, rgb(44 103 127) 99.99%);
   content: "";
   z-index: -1;
 }
@@ -9955,8 +9956,8 @@ Section Title
   visibility: hidden;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(19.36%, rgba(0, 0, 0, 0)), color-stop(71.26%, #163839), to(#163839));
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 19.36%, #163839 71.26%, #163839 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(19.36%, rgba(0, 0, 0, 0)), color-stop(71.26%, #2c677fd6), to(#2c677fd6));
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 19.36%, #2c677fd6 71.26%, #2c677fd6 100%);
   z-index: 0;
   content: "";
 }
@@ -9975,7 +9976,7 @@ Section Title
           transform: translate(-50%, -50%);
   text-align: center;
   font-size: 24px;
-  color: #163839;
+  color: #2c677fd6;
   border-radius: 50%;
   z-index: 1;
   -webkit-transition: all 300ms ease;
@@ -10251,7 +10252,7 @@ Section Title
 }
 .choose-section .content-column .inner-column .choose-tab .nav .nav-item .nav-link.active {
   background-color: transparent;
-  border-bottom: 2px solid #163839;
+  border-bottom: 2px solid #2c677fd6;
   color: var(--headings-color);
 }
 @media (max-width: 575.98px) {
@@ -10549,7 +10550,7 @@ Section Title
 }
 .choose-section-seven .content-column .inner-column .choose-tab .nav .nav-item .nav-link.active {
   background-color: transparent;
-  border-bottom: 2px solid #163839;
+  border-bottom: 2px solid #2c677fd6;
   color: var(--headings-color);
 }
 @media (max-width: 575.98px) {
@@ -16355,7 +16356,7 @@ CONTACT Details
   border: none;
   border-radius: 10px;
   margin-bottom: 20px;
-  background-color: #0f2727;
+  background-color: #101010;
   overflow: hidden;
 }
 .faq-accordion .accordion .accordion-item .accordion-header button {
@@ -16381,7 +16382,7 @@ CONTACT Details
   color: rgba(var(--theme-color-white-rgb), 0.52);
 }
 .faq-accordion .accordion .accordion-button {
-  background-color: #00715d;
+  background-color: #2c677f;
 }
 .faq-accordion .accordion .accordion-button::after {
   display: none;
@@ -18332,7 +18333,7 @@ CONTACT Details
   }
 }
 .footer-style-one .right-column {
-  background-color: #d4f25a;
+  background-color: #000000;
   padding: 30px;
   position: relative;
   z-index: 1;
@@ -18360,7 +18361,7 @@ CONTACT Details
 .footer-style-one .right-column .inner-column .title {
   font-size: 42px;
   line-height: 50px;
-  color: var(--theme-color-black);
+  color: #ffffff;
   margin-bottom: 0;
 }
 .footer-style-one .right-column .inner-column .circle-btn {
@@ -18409,14 +18410,14 @@ CONTACT Details
           transform: rotate(405deg);
 }
 .footer-style-one .right-column .inner-column .time {
-  color: #101249;
+  color: #ffffff;
   text-transform: uppercase;
   margin-bottom: 0;
 }
 .footer-style-one .right-column .inner-column .date {
   font-weight: 400;
   line-height: 18px;
-  color: #101249;
+  color: #ffffff;
   margin-bottom: 0;
   text-transform: capitalize;
 }
