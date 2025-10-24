@@ -178,7 +178,7 @@
                   <div class="inner-container">
                      <!--Logo-->
                      <div class="logo">
-                        <a href="index" title=""><img src="images/logo_white.png" alt="" title=""></a>
+                        <a href="https://awesomepanama.com/" title="awesomepanama"><img src="images/logo_white.png" alt="awesomepanama" title="awesomepanama"></a>
                      </div>
                      <!--Right Col-->
                      <div class="nav-outer">
