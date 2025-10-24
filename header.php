@@ -29,7 +29,7 @@
          <div class="main-box">
             <div class="logo-box">
                <div class="logo">
-                  <a href="index" title=""><img src="images/logo.png" alt="" title="awesomepanama"></a>
+                  <a href="https://awesomepanama.com/" title="awesomepanama"><img src="images/logo.png" alt="awesomepanama" title="awesomepanama"></a>
                </div>
             </div>
             <!--Nav Box-->
