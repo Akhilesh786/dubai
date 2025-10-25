@@ -25,7 +25,7 @@
       <div class="preloader"></div>
       <?php include('header.php'); ?>
       <section id="home" class="banner-section">
-         <div class="arry"><img class="animation__arryLeftRight" src="images/shape/banner-arry.png" alt="Image"></div>
+         <!-- <div class="arry"><img class="animation__arryLeftRight" src="images/shape/banner-arry.png" alt="Image"></div> -->
          <div class="sec-shape">
             <img src="images/shape/banner-shape.png" alt="Image">
          </div>
@@ -160,8 +160,8 @@
                <div class="flex-content">
                   <h2 class="title wow splt-txt" data-splitting>Empowering Your Brand <br> Innovative Solutions</h2>
 <!--                   <a class="btn-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-services.html">All Services</a>
- -->                  <figure class="arry wow bounceInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
-                     <img class="animation__arryLeftRight" src="images/shape/service-arry.png" alt="Image">
+ -->                  <figure class="arry wow bounceInRight" data-wow-delay="200ms" data-wow-duration="1500ms"><!-- 
+                     <img class="animation__arryLeftRight" src="images/shape/service-arry.png" alt="Image"> -->
                   </figure>
                </div>
             </div>

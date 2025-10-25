@@ -110,9 +110,9 @@
                   <div class="inner-column">
                      <h3 class="title">Creativity Crossing Borders
                      </h3>
-                     <img src="images/awesomesaucecreativeallwhite.png" alt="awesomesaucecreative" style="margin-bottom: -27px;">
-                     <div class="spacer" style="height: 8px;color: white;font-size: 106px;">+</div>
-                     <img src="images/PanAdlogopngraster.png" alt="awesomepanama">
+                     <a href="https://awesomesauce.in/" target="_blank" rel="noopener noreferrer"><img src="images/awesomesaucecreativeallwhite.png" alt="awesomesaucecreative" style="margin-bottom: -27px;width: 70%;"></a>
+                     <div  style="color: white;font-size: 65px;">+</div>
+                     <a href="https://panama-me.com/" target="_blank" rel="noopener noreferrer"><img src="images/PanAdlogopngraster.png" alt="awesomepanama" style="width: 70%;"></a>
                      
                   </div>
                   <div class="shape">
