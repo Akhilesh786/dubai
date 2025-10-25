@@ -48,7 +48,7 @@
                               <div class="inner-column">
                                  <h6 class="sub-title" data-animation="fadeInUp" data-delay=".3s"> BRANDING, MARKETING, ADVERTISING & EVENTS
                                  </h6>
-                                 <h1 class="title" data-animation="fadeInUp" data-delay=".5s">transforming
+                                 <h1 class="title" data-animation="fadeInUp" data-delay=".5s">
                                     <span>Transforming Brands </span>
                                     Driving Success
                                  </h1>
@@ -159,8 +159,8 @@
                <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms"> Service Offerings</h6>
                <div class="flex-content">
                   <h2 class="title wow splt-txt" data-splitting>Empowering Your Brand <br> Innovative Solutions</h2>
-                  <a class="btn-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-services.html">All Services</a>
-                  <figure class="arry wow bounceInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
+<!--                   <a class="btn-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-services.html">All Services</a>
+ -->                  <figure class="arry wow bounceInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
                      <img class="animation__arryLeftRight" src="images/shape/service-arry.png" alt="Image">
                   </figure>
                </div>

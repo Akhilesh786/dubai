@@ -108,14 +108,12 @@
                </div>
                <div class="col-xl-4 right-column order-1 order-xl-2">
                   <div class="inner-column">
-                     <h3 class="title">Have a Project in
-                        your Mind?
+                     <h3 class="title">Creativity Crossing Borders
                      </h3>
-                     <a class="circle-btn" href="contact.php">Contact Us <i class="fa-regular fa-arrow-up-right"></i></a>
-                     <div class="mt-10">
-                        <h5 class="time">09 : 00 AM - 10 : 30 PM</h5>
-                        <h5 class="date">Saturday - Thursday</h5>
-                     </div>
+                     <img src="images/awesomesaucecreativeallwhite.png" alt="awesomesaucecreative" style="margin-bottom: -27px;">
+                     <div class="spacer" style="height: 8px;color: white;font-size: 106px;">+</div>
+                     <img src="images/PanAdlogopngraster.png" alt="awesomepanama">
+                     
                   </div>
                   <div class="shape">
                      <img src="images/shape/footer-one-shape.png" alt="Image">
