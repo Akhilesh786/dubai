@@ -7,7 +7,7 @@
                   <ul class="info-list">
                      <li><i class="fa-solid fa-envelope"></i> <a href="#">rishis@awesomepanama.com</a>
                      </li>
-                     <li><i class="fa-solid fa-location-dot"></i> Choithram Supermarket - Sharjah - United Arab Emirates</li>
+                     <li><i class="fa-solid fa-location-dot"></i> Office No 8, 2nd Floor, Marine House Building - King Faisal St - above Choithram Supermarket - Sharjah</li>
                   </ul>
                </div>
                <div class="top-right">

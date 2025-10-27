@@ -57,7 +57,7 @@
                            </svg>
                         </div>
                         <h4 class="title">address line</h4>
-                        <p class="text">Choithram Supermarket - Sharjah - United Arab Emirates</p>
+                        <p class="text">Office No 8, 2nd Floor, Marine House Building - King Faisal St - above Choithram Supermarket - Sharjah</p>
                      </div>
                   </div>
                </div>
@@ -77,8 +77,11 @@
                                  fill="#1A4137" />
                            </svg>
                         </div>
-                        <h4 class="title">address line</h4>
+                        <h4 class="title">Phone Number</h4>
                         <p class="text"> +971 568586608</p>
+                        </br>
+                        </br>
+                        
                      </div>
                   </div>
                </div>
@@ -94,6 +97,8 @@
                         </div>
                         <h4 class="title">Mail Adress</h4>
                         <p class="text">rishis@awesomepanama.com</p>
+                        </br>
+                        </br>
                      </div>
                   </div>
                </div>

@@ -901,7 +901,7 @@
                            <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">FAQ’S</h6>
                            <h2 class="title text-white wow splt-txt" data-splitting>Frequently Asked Questions</h2>
                            <p class="text text-white wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Awesome Panama brings together the strengths of India and the Middle East to deliver strategic, creative, and performance-driven marketing solutions. Here’s everything you might want to know about how we work.</p>
-                           <a class="btn-one-light border-0 wow fadeInUp rounded-0 mt-50" data-wow-delay="400ms" data-wow-duration="1500ms" href="contact.php">Get a quate</a>
+                           <a class="btn-one-light border-0 wow fadeInUp rounded-0 mt-50" data-wow-delay="400ms" data-wow-duration="1500ms" href="contact.php">Get a Quote</a>
                         </div>
                      </div>
                      <div class="col-lg-7">
