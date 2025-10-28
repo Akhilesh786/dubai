@@ -52,7 +52,7 @@
                                     <span>Transforming Brands </span>
                                     Driving Success
                                  </h1>
-                                 <a class="btn-one" data-animation="fadeInUp" data-delay=".8s" href="page-contact.html">Get in touch</a>
+                                 <a class="btn-one" data-animation="fadeInUp" data-delay=".8s" href="contact.php">Get in touch</a>
                               </div>
                            </div>
                            <div class="col-lg-4">
