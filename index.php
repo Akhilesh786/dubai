@@ -399,10 +399,9 @@
                <div class="col-xl-6 image-column">
                   <div class="inner-column">
                      <figure class="image">
-                        <img class="wow imageUpToDown" src="images/choose/choose-image1.jpg" alt="Image">
-                        <div class="outer-box">
+                        <img class="wow imageUpToDown" src="images/awesomepanama2.jpg" alt="Image">
+                        <!-- <div class="outer-box">
                            <div class="choose-block">
-                              <!-- pie-graph -->
                               <div class="pie-graph">
                                  <div class="graph-outer">
                                     <input type="text" class="dial" data-fgColor="#000" data-bgColor="#FFFFFF33" data-width="70" data-height="70" data-linecap="normal" value="90">
@@ -415,7 +414,6 @@
                               </div>
                            </div>
                            <div class="choose-block">
-                              <!-- pie-graph -->
                               <div class="pie-graph">
                                  <div class="graph-outer">
                                     <input type="text" class="dial" data-fgColor="#000" data-bgColor="#FFFFFF33" data-width="70"
@@ -428,7 +426,7 @@
                                  <h5 class="title">Complete Project</h5>
                               </div>
                            </div>
-                        </div>
+                        </div> -->
                      </figure>
                   </div>
                </div>
