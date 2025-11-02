@@ -1,7 +1,6 @@
 <?php
 // Set the content type to be plain text for emails
-header("Content-Type: text/html; charset=UTF-8");
-
+header('Content-Type: application/json; charset=utf-8');
 // Define error messages
 $errors = [];
 
