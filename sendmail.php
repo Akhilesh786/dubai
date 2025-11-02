@@ -61,9 +61,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Send the email using PHP mail() function
         if (mail($to, $subject, $message, $headers)) {
-            echo "Thank you for your message. We will get back to you soon!";
+            echo json_encode(["status" => 'true', "message" => "Thank you for your message. We will get back to you soon!"]);
         } else {
-            echo "There was an error sending your message. Please try again later.";
+            echo json_encode(["status" => 'false', "message" => "There was an error sending your message. Please try again later."]);
         }
     } else {
         // Display errors
