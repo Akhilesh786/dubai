@@ -10,7 +10,6 @@
       $(form).ajaxSubmit({
         dataType:  'json',
         success: function(data) {
-          alert(data.status);
           if( data.status == 'true' ) {
             $(form).find('.form-control').val('');
             alert(data.message);
