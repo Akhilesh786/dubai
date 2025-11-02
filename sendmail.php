@@ -3,7 +3,7 @@
 header('Content-Type: application/json; charset=utf-8');
 // Define error messages
 $errors = [];
-
+error_reporting(0);
 // Check if form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 

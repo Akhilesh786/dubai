@@ -10,8 +10,11 @@
       $(form).ajaxSubmit({
         dataType:  'json',
         success: function(data) {
+          alert(data.status);
           if( data.status == 'true' ) {
             $(form).find('.form-control').val('');
+            alert(data.message);
+            window.location.reload();
           }
           form_btn.prop('disabled', false).html(form_btn_old_msg);
           $(form_result_div).html(data.message).fadeIn('slow');
