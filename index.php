@@ -159,9 +159,8 @@
                <h6 class="sub-title wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms"> Service Offerings</h6>
                <div class="flex-content">
                   <h2 class="title wow splt-txt" data-splitting>Empowering Your Brand <br> Innovative Solutions</h2>
-<!--                   <a class="btn-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-services.html">All Services</a>
- -->                  <figure class="arry wow bounceInRight" data-wow-delay="200ms" data-wow-duration="1500ms"><!-- 
-                     <img class="animation__arryLeftRight" src="images/shape/service-arry.png" alt="Image"> -->
+<!--                   <a class="btn-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" href="page-services.html">All Services</a>-->                  <figure class="arry wow bounceInRight" data-wow-delay="200ms" data-wow-duration="1500ms"><!-- 
+                        <img class="animation__arryLeftRight" src="images/shape/service-arry.png" alt="Image"> -->
                   </figure>
                </div>
             </div>
@@ -192,7 +191,7 @@
                         </div>
                         <div class="image-box">
                            <figure class="image">
-                              <img src="images/service/service-image1.jpg" alt="Image">
+                              <img src="images/service/Branding in dubai - awesome panama.jpg" alt="Image">
                            </figure>
                         </div>
                      </div>
@@ -234,7 +233,7 @@
                         </div>
                         <div class="image-box">
                            <figure class="image">
-                              <img src="images/service/service-image2.jpg" alt="Image">
+                              <img src="images/Marketing in dubai - awesome panama.jpg" alt="Image">
                            </figure>
                         </div>
                      </div>
@@ -261,7 +260,7 @@
                         </div>
                         <div class="image-box">
                            <figure class="image">
-                              <img src="images/service/service-image3.jpg" alt="Image">
+                              <img src="images/Digital Advertising in dubai - awesome panama.jpg" alt="Image">
                            </figure>
                         </div>
                      </div>
@@ -285,13 +284,43 @@
                            </figure>
                            <div class="content">
                               <span class="number">04</span>
-                              <h4 class="title"><a href="javascript:void(0)">Events</a></h4>
-                              <p class="text"> We bring brands to life through experiences that engage, inspire, and leave lasting impressions — from launch events to large-scale activations.</p>
+                              <h4 class="title"><a href="javascript:void(0)">Photography</a></h4>
+                              <p class="text"> Craft content that captures attention, Awesome Panama tells your story with precision, and performs across platforms—from thumb-stopping to storytelling.</p>
                            </div>
                         </div>
                         <div class="image-box">
                            <figure class="image">
-                              <img src="images/service/service-image1.jpg" alt="Image">
+                              <img src="images/photography in dubai - awesome panama.jpg" alt="Image">
+                           </figure>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="swiper-slide">
+                     <div class="service-block">
+                        <a class="arry-btn" href="javascript:void(0)"><i class="fa-regular fa-arrow-up-right"></i></a>
+                        <div class="content-box">
+                           <div class="icon">
+                              <svg width="84" height="85" viewBox="0 0 84 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                 <path
+                                    d="M5.24999 42.9551C5.32958 42.955 5.40908 42.9497 5.48799 42.9394C18.3434 41.195 30.8814 37.6123 42.7175 32.3011C54.6704 26.9232 65.7759 19.8324 75.684 11.2521L73.5525 19.7816C73.4402 20.2315 73.5112 20.7077 73.7497 21.1053C73.9883 21.503 74.3749 21.7898 74.8247 21.9026C74.9639 21.937 75.1067 21.9546 75.25 21.9551C75.6401 21.9546 76.0188 21.8238 76.326 21.5835C76.6332 21.3431 76.8513 21.0071 76.9457 20.6286L80.4457 6.62858C80.51 6.3708 80.5148 6.10177 80.4597 5.84188C80.4045 5.58199 80.2909 5.33807 80.1275 5.12861C79.9641 4.91914 79.7551 4.74963 79.5164 4.63294C79.2778 4.51624 79.0157 4.45542 78.75 4.45508H64.75C64.2859 4.45508 63.8407 4.63945 63.5126 4.96764C63.1844 5.29583 63 5.74095 63 6.20508C63 6.66921 63.1844 7.11433 63.5126 7.44252C63.8407 7.77071 64.2859 7.95508 64.75 7.95508H74.1457C64.3053 16.6028 53.2288 23.7328 41.2825 29.1091C29.7518 34.2829 17.5373 37.7725 5.01374 39.4709C4.57375 39.5303 4.1728 39.7547 3.89211 40.0987C3.61142 40.4427 3.47196 40.8805 3.502 41.3235C3.53203 41.7665 3.72931 42.1814 4.05387 42.4844C4.37843 42.7873 4.80601 42.9556 5.24999 42.9551Z"
+                                    fill="#C6D936" />
+                                 <path
+                                    d="M78.75 77.9551H77V30.7051C77 30.2409 76.8157 29.7958 76.4875 29.4676C76.1593 29.1395 75.7142 28.9551 75.25 28.9551H57.75C57.2859 28.9551 56.8408 29.1395 56.5126 29.4676C56.1844 29.7958 56 30.2409 56 30.7051V77.9551H52.5V41.2051C52.5 40.7409 52.3157 40.2958 51.9875 39.9676C51.6593 39.6395 51.2142 39.4551 50.75 39.4551H33.25C32.7859 39.4551 32.3408 39.6395 32.0126 39.9676C31.6844 40.2958 31.5 40.7409 31.5 41.2051V77.9551H28V51.7051C28 51.2409 27.8156 50.7958 27.4875 50.4676C27.1593 50.1395 26.7141 49.9551 26.25 49.9551H8.75C8.28587 49.9551 7.84075 50.1395 7.51257 50.4676C7.18438 50.7958 7 51.2409 7 51.7051V77.9551H5.25C4.78587 77.9551 4.34075 78.1395 4.01256 78.4676C3.68437 78.7958 3.5 79.2409 3.5 79.7051C3.5 80.1692 3.68437 80.6143 4.01256 80.9425C4.34075 81.2707 4.78587 81.4551 5.25 81.4551H78.75C79.2142 81.4551 79.6593 81.2707 79.9875 80.9425C80.3157 80.6143 80.5 80.1692 80.5 79.7051C80.5 79.2409 80.3157 78.7958 79.9875 78.4676C79.6593 78.1395 79.2142 77.9551 78.75 77.9551ZM59.5 32.4551H73.5V77.9551H59.5V32.4551ZM35 42.9551H49V77.9551H35V42.9551ZM10.5 53.4551H24.5V77.9551H10.5V53.4551Z"
+                                    fill="#C6D936" />
+                              </svg>
+                           </div>
+                           <figure class="shape">
+                              <img src="images/shape/service-item-shape.png" alt="IMage">
+                           </figure>
+                           <div class="content">
+                              <span class="number">05</span>
+                              <h4 class="title"><a href="javascript:void(0)">Packaging Design</a></h4>
+                              <p class="text"> Transform your packaging into a powerful brand experience that connects emotionally, communicates clearly, and performs commercially.</p>
+                           </div>
+                        </div>
+                        <div class="image-box">
+                           <figure class="image">
+                              <img src="images/Packaging in dubai - awesome panama.jpg" alt="Image">
                            </figure>
                         </div>
                      </div>
@@ -1373,60 +1402,6 @@
       <!-- form submit -->
       <script src="js/jquery.validate.min.js"></script>
       <script src="js/jquery.form.min.js"></script>
-      <script src="js/contact-custom.js"></script>
-      <script>
-         (function ($) {
-             $('#contact_form').validate({
-             submitHandler: function (form) {
-                 const formBtn = $(form).find('button[type="submit"]');
-                 const formResultDivId = 'form-result';
-                 const formResultDiv = $('#' + formResultDivId);
-         
-                 // Remove any existing result div
-                 formResultDiv.remove();
-         
-                 // Insert a new result div before the submit button, initially hidden
-                 formBtn.before(`<div id="${formResultDivId}" class="alert alert-success" role="alert" style="display: none;"></div>`);
-         
-                 const formBtnOldMsg = formBtn.html();
-         
-                 // Disable button and show loading text if available
-                 const loadingText = formBtn.data('loading-text') || 'Loading...';
-                 formBtn.html(loadingText).prop('disabled', true);
-         
-                 // Submit the form via AJAX
-                 $(form).ajaxSubmit({
-                 dataType: 'json',
-                 success: function (data) {
-                     if (data.status === 'true') {
-                     // Clear input fields only on success
-                     $(form).find('.form-control').val('');
-                     }
-         
-                     // Re-enable button and restore original text
-                     formBtn.prop('disabled', false).html(formBtnOldMsg);
-         
-                     // Show response message
-                     $('#' + formResultDivId).html(data.message).fadeIn('slow');
-         
-                     // Hide message after 6 seconds
-                     setTimeout(() => {
-                     $('#' + formResultDivId).fadeOut('slow');
-                     }, 6000);
-                 },
-                 error: function () {
-                     // Handle AJAX errors
-                     formBtn.prop('disabled', false).html(formBtnOldMsg);
-                     $('#' + formResultDivId).html('An error occurred. Please try again.').fadeIn('slow');
-                     setTimeout(() => {
-                     $('#' + formResultDivId).fadeOut('slow');
-                     }, 6000);
-                 }
-                 });
-             }
-             });
-         })(jQuery);
-      </script>
+      
    </body>
-   <!-- Mirrored from php.kodesolution.com/2025/awesomepanama-php/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 16:29:25 GMT -->
 </html>
