@@ -50,7 +50,7 @@
                                  <li><i class="fa-sharp fa-solid fa-location-dot"></i></li>
                                  <li>
                                     <span>Hours:</span>
-                                    <h5 class="title">Daily: 8 AM to 5 PM</h5>
+                                    <h5 class="title">Daily: 9:30 AM to 6:30 PM</h5>
                                  </li>
                               </ul>
                            </div>
@@ -65,9 +65,10 @@
                               <div class="widget-content">
                                  <ul class="user-links">
                                     <li><a href="javascript:void(0)">Branding</a></li>
+                                    <li><a href="javascript:void(0)">Packaging Design</a></li>
                                     <li><a href="javascript:void(0)">Marketing</a></li>
                                     <li><a href="javascript:void(0)">Advertising</a></li>
-                                    <li><a href="javascript:void(0)">Events</a></li>
+                                    <li><a href="javascript:void(0)">Photography</a></li>
                                  </ul>
                               </div>
                            </div>
