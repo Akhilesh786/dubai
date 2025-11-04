@@ -191,7 +191,7 @@
                         </div>
                         <div class="image-box">
                            <figure class="image">
-                              <img src="images/service/Branding in dubai - awesome panama.jpg" alt="Image">
+                              <img src="images/Branding in dubai - awesome panama.jpg" alt="Image">
                            </figure>
                         </div>
                      </div>
