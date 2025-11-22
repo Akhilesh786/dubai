@@ -120,7 +120,7 @@ $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 						?>
 						<ul class="sidebar__category-list list-unstyled">
 						<?php 	while($rowblogcate=$stmtblogcate->fetch()) { ?>
-							<li><a href="categories/<?php print $rowblogcate["blog_cate_slug"] ?>"><?php echo $rowblogcate['blog_cate_name']; ?><span class="icon-right-arrow"></span></a> </li>
+							<li><a href="javascript:void(0);"><?php echo $rowblogcate['blog_cate_name']; ?><span class="icon-right-arrow"></span></a> </li>
 							<?php } ?>
 						</ul>
 					</div>
