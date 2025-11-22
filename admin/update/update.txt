@@ -1,0 +1,45 @@
+<?php
+
+$product_name=$_POST['product_name'];
+$short_desc=$_POST['short_desc'];
+$full_desc=$_POST['full_desc'];
+$quantity=$_POST['quantity'];
+$price=$_POST['price'];
+$featured=1;
+$active=1;
+$sub_id=$_POST['sub_list'];
+
+$stmt = $dbh->prepare("INSERT INTO products (product_name, product_slug, short_description, full_description, price, quantity, is_featured, is_active)  
+  VALUES (:product_name, 0, :short_description, :full_description, :price, :quantity, :is_featured, :is_active)");
+  
+ $stmt->bindParam(':product_name', $product_name);
+ $stmt->bindparam(':short_description', $short_desc);
+ $stmt->bindParam(':full_description', $full_desc);
+ $stmt->bindParam(':price', $price);
+ $stmt->bindParam(':quantity', $quantity);
+ $stmt->bindParam(':is_featured', $featured);
+ $stmt->bindParam(':is_active', $active);
+ 
+ $stmt->execute();
+ 
+ $last_id = $dbh->lastInsertId();
+ $_SESSION["pro_id"]=$last_id;
+ 
+ 
+$product_slug= str_replace(" ","-",$product_name)."-".$last_id;
+
+
+ $stmt = $dbh->prepare("UPDATE products SET product_slug=:product_slug WHERE products.id='$last_id'");
+	$stmt->bindParam(':product_slug', $product_slug);	
+    $stmt->execute();
+	
+ 
+ $stmt1 = $dbh->prepare("INSERT INTO sub_pro (product_id, sub_id)  
+  VALUES (:pro_id, :sub_id)");
+  
+ $stmt1->bindParam(':pro_id', $last_id);
+ $stmt1->bindParam(':sub_id', $sub_id);
+ 
+ $stmt1->execute();
+ 
+ ?>

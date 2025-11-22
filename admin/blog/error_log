@@ -1,0 +1,65 @@
+[28-Jan-2020 11:07:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 7
+[28-Jan-2020 11:07:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 7
+[28-Jan-2020 11:07:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 7
+[28-Jan-2020 11:08:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 6
+[28-Jan-2020 11:09:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:10:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:14:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:15:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:16:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:17:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:20:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 7
+[28-Jan-2020 11:22:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 7
+[28-Jan-2020 11:24:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 7
+[28-Jan-2020 11:26:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 6
+[28-Jan-2020 11:29:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 6
+[28-Jan-2020 11:30:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 5
+[28-Jan-2020 11:40:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:30:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:32:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:35:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:37:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:38:47 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:50:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpinclude() in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpinclude() in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 06:57:10 UTC] PHP Parse error:  syntax error, unexpected ''config.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:14:54 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:16:46 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpinclude() in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:18:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:19:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:26:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:39:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:41:56 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:42:29 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:42:58 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:43:42 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:45:38 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:46:01 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:47:47 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:48:06 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:48:49 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:49:49 UTC] PHP Parse error:  syntax error, unexpected '"config.php"' (T_CONSTANT_ENCAPSED_STRING) in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:50:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:51:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:52:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:53:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:53:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:55:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:55:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:56:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:57:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 07:59:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 08:02:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 08:11:56 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1
+[29-Jan-2020 08:15:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rn6muak41kfi/public_html/admin/blog/blog-register.php on line 1

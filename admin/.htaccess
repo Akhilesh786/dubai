@@ -1,0 +1,27 @@
+# Turn Rewrite Engine On
+RewriteEngine on
+
+#ErrorDocument 404  http://localhost/ksmb/admin/
+
+RewriteRule ^([^/.]+)$ $1.php [L]
+
+#reset
+RewriteRule ^reset/([^/]+)/?$ reset.php?key=$1 [L,QSA]
+#career
+RewriteRule ^add-project/([^/]+)/?$ add-project.php?id=$1 [L,QSA]
+
+#project
+RewriteRule ^add-project-work/([^/]+)/?$ add-project-work.php?id=$1 [L,QSA]
+
+
+#project-listing
+RewriteRule ^projects-listing/([^/]+)/?$ projects-listing.php?id=$1 [L,QSA]
+
+#project-work-listing
+RewriteRule ^projects-work-listing/([^/]+)/?$ projects-work-listing.php?id=$1 [L,QSA]
+
+#edit-blog
+RewriteRule ^edit-blog/([^/]+)/?$ edit-blog.php?id=$1 [L,QSA]
+
+
+

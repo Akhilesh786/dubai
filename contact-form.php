@@ -8,7 +8,7 @@
 
 header('Content-Type: application/json; charset=utf-8');
 
-$to = 'your-email@example.com'; // <-- CHANGE THIS to the actual recipient
+$to = 'Rishis@awesomepanama.com '; // <-- CHANGE THIS to the actual recipient
 
 $name = isset($_POST['name']) ? trim($_POST['name']) : '';
 $email = isset($_POST['email']) ? trim($_POST['email']) : '';

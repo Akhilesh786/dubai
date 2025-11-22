@@ -1,3 +1,4 @@
+<?php  include "admin/config.php"; ?>
 <header class="main-header header-style-one">
          <!-- Header Top -->
          <div class="header-top">
@@ -17,7 +18,7 @@
                      <li><a href="contact.php">Contact</a></li>
                   </ul>
                   <ul class="top-social-icon">
-                     <li><a href="https://www.instagram.com/awesome_panama "><i class="fa-brands fa-instagram"></i></a></li>
+                     <li><a href="https://www.instagram.com/awesome_panama"><i class="fa-brands fa-instagram"></i></a></li>
                      <li><a href=" https://x.com/Awesome_panama"><i class="fa-brands fa-x-twitter"></i></a></li>
                      <li><a href="https://www.linkedin.com/company/awesome-panama/"><i class="fa-brands fa-linkedin-in"></i></a></li>
                   </ul>
@@ -79,14 +80,10 @@
                            <li><a href="#">Portfolio</a></li>
                            <li><a href="#">Portfolio Details</a></li>
                         </ul>
-                     </li>
-                     <li class="dropdown">
-                        <a href="#">News</a>
-                        <ul>
-                           <li><a href="#">News Grid</a></li>
-                           <li><a href="#">News Details</a></li>
-                        </ul>
-                     </li> -->
+                     </li>-->
+                     <li>
+                        <a href="blogs.php">Blogs</a>
+                     </li> 
                      <li><a href="contact.php">Contact</a></li>
                   </ul>
                </nav>
