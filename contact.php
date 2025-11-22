@@ -111,8 +111,7 @@
                            <h2 class="title wow splt-txt" data-splitting>Get in touch</h2>
                         </div>
                         <div class="google-map">
-                          
-                           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.0722294031116!2d55.388814775168285!3d25.33535717762226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5bc34a2b7485%3A0xda51661f4970f361!2sChoithrams%20Sharjah!5e0!3m2!1sen!2sin!4v1760934853492!5m2!1sen!2sin"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.073900408464!2d55.3913858!3d25.3353011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41feada6b91acd1d%3A0xe108e5748643a8a6!2sAwesome%20Panama%20Marketing!5e0!3m2!1sen!2sin!4v1763799381028!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                      </div>
                   </div>
