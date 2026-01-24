@@ -1,16 +1,16 @@
 <?php 
 date_default_timezone_set("Asia/Calcutta");
 
-// define('DB_HOST','localhost');
-// define('DB_USER','u881899582_awesomepanama');
-// define('DB_PASS','#0|Cvm6B');
-// define('DB_NAME','u881899582_awesomepanama');
-
-
 define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','awesome_website');
+define('DB_USER','u881899582_awesomepanama');
+define('DB_PASS','#0|Cvm6B');
+define('DB_NAME','u881899582_awesomepanama');
+
+
+// define('DB_HOST','localhost');
+// define('DB_USER','root');
+// define('DB_PASS','');
+// define('DB_NAME','awesome_website');
 // Establish database connection.
 try
 {
