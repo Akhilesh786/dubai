@@ -207,8 +207,8 @@
            img = new Image();
            var imgwidth = 0;
            var imgheight = 0;
-           var maxwidth = 2000;
-           var maxheight = 1133;
+           var maxwidth = 1920;
+           var maxheight = 1080;
 
            img.src = _URL.createObjectURL(file);
            img.onload = function() {
